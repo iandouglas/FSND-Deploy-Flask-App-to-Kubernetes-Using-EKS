@@ -27,3 +27,8 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+.gh_token
+aws-auth-patch.yml
+iam-role-policy.json
+trust.json
